@@ -1,6 +1,6 @@
-# 🌡️ Pipeline de Dados IoT com PostgreSQL e Streamlit
+#  Pipeline de Dados IoT com PostgreSQL e Streamlit
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto tem como objetivo simular um **pipeline de dados aplicado ao contexto de Internet das Coisas (IoT)**, utilizando leituras de temperatura coletadas por sensores em diferentes ambientes.
 
@@ -16,7 +16,7 @@ Esse fluxo representa uma solução simples, mas bastante próxima de cenários 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3**
 - **Pandas**
@@ -30,7 +30,11 @@ Esse fluxo representa uma solução simples, mas bastante próxima de cenários 
 
 ---
 
-## 📂 Estrutura do Projeto
+<img width="1915" height="872" alt="views" src="https://github.com/user-attachments/assets/9dfdbf92-5d65-4e45-9e71-de384e764319" />
+assim ficará
+
+---
+##  Estrutura do Projeto
 
 ```bash
 PIPELINE-IOT-TEMPERATURA/
@@ -49,7 +53,3 @@ PIPELINE-IOT-TEMPERATURA/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
-
-
-<img width="1915" height="872" alt="views" src="https://github.com/user-attachments/assets/ee549ac9-41ad-42b5-be30-e1866f1a7e62" />
