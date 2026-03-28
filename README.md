@@ -31,7 +31,7 @@ Esse fluxo representa uma solução simples, mas bastante próxima de cenários 
 ---
 
 <img width="1915" height="872" alt="views" src="https://github.com/user-attachments/assets/9dfdbf92-5d65-4e45-9e71-de384e764319" />
-assim ficará
+Assim ficará
 
 ---
 ##  Estrutura do Projeto
